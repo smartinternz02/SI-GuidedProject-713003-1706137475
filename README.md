@@ -15,7 +15,7 @@ The problem-understanding phase involves identifying challenges within the Amazo
 
 ## Specify the Business Problem
 
-The specified business problem revolves around:
+The specified business problem revolves around the following:
 
 - Ensuring a reliable and defect-free application.
 - Achieving cost savings and faster time-to-market through automated testing.
@@ -23,7 +23,7 @@ The specified business problem revolves around:
 
 ## Business Impact
 
-Addressing these problems will result in:
+Addressing these problems will result in the following:
 
 - Improved user satisfaction and trust.
 - Cost savings and faster development cycles.
@@ -36,10 +36,10 @@ Addressing these problems will result in:
 ### 1. Login
 - **Description**: Verifies the login functionality of the Amazon website.
 - **Steps**:
-  1. Open Amazon website.
-  2. Enter valid username and password.
+  1. Open the Amazon website.
+  2. Enter a valid username and password.
   3. Click on the login button.
-- **Expected Outcome**: User should be logged in successfully and redirected to the homepage.
+- **Expected Outcome**: The user should be logged in successfully and redirected to the homepage.
 
 ### 2. Search for a Product
 - **Description**: Tests the product search functionality on the Amazon website.
@@ -47,7 +47,7 @@ Addressing these problems will result in:
   1. Login to the Amazon website.
   2. Enter a product name in the search bar.
   3. Click on the search button.
-- **Expected Outcome**: Relevant search results related to the entered product should be displayed.
+- **Expected Outcome**: Relevant search results for the entered product should be displayed.
 
 ### 3. Add to Cart
 - **Description**: Validates the functionality to add a product to the cart.
@@ -58,20 +58,20 @@ Addressing these problems will result in:
   4. Click on the "Add to Cart" button.
 - **Expected Outcome**: The selected product should be added to the cart successfully.
 
-### 4. Navigate to Different Tab
+### 4. Navigate to a Different Tab
 - **Description**: Tests the ability to navigate to different tabs on the Amazon website.
 - **Steps**:
   1. Login to the Amazon website.
   2. Navigate to a different tab (e.g., "Today's Deals", "Your Orders").
-- **Expected Outcome**: User should be able to navigate to the selected tab without any errors.
+- **Expected Outcome**: The user should be able to navigate to the selected tab without any errors.
 
 ### 5. Logout
 - **Description**: Verifies the logout functionality on the Amazon website.
 - **Steps**:
   1. Login to the Amazon website.
   2. Click on the user profile icon.
-  3. Select "Logout" option.
-- **Expected Outcome**: User should be logged out successfully and redirected to the login page.
+  3. Select the "Logout" option.
+- **Expected Outcome**: The user should be logged out successfully and redirected to the login page.
 
 ### Analyze Requirements
 
@@ -165,7 +165,7 @@ Configure Katalon Studio to send automated test reports via email to relevant st
 
 * Difference between Manual and Automation testing
 
-* Advantages and need of automation testing tools
+* Advantages and need for automation testing tools
 
 ## Tech stacks used -
 * Katalon Studio 
@@ -182,7 +182,7 @@ Configure Katalon Studio to send automated test reports via email to relevant st
 * List of countries available
 
 ## Data-driven testing
-#### To check whether what forms of data is parsed and executed by the application, data-driven testing can be performed. In this project I have used MS Excel data and CSV data to perform automated testing on Amazon login test case. The data files used for login test cases can be found [here](https://github.com/smartinternz02/SI-GuidedProject-713003-1706137475/tree/master/Katalon_Amazon_Application_Testing_Project_Files/Data%20Files/Amazon_Test%20Data) and the corresponding test suite collection for CSV and xls data format can be found [here](https://github.com/smartinternz02/SI-GuidedProject-705495-1706965358/tree/main/Test%20Suites)
+#### To check whether what forms of data is parsed and executed by the application, data-driven testing can be performed. In this project, I have used MS Excel data and CSV data to perform automated testing on Amazon login test case. The data files used for login test cases can be found [here](https://github.com/smartinternz02/SI-GuidedProject-713003-1706137475/tree/master/Katalon_Amazon_Application_Testing_Project_Files/Data%20Files/Amazon_Test%20Data) and the corresponding test suite collection for CSV and xls data format can be found [here](https://github.com/smartinternz02/SI-GuidedProject-705495-1706965358/tree/main/Test%20Suites)
 
 ## Cross-Browser Testing
 #### For testing interoperability with different Operating Systems and Browsers, Katalon Studio provides Katalon TestCloud that can be used to execute the same test cases across different environments. The test suite for cross-browser testing is available [here](https://github.com/smartinternz02/SI-GuidedProject-705495-1706965358/tree/main/Test%20Suites)
@@ -191,7 +191,7 @@ Configure Katalon Studio to send automated test reports via email to relevant st
 #### Jenkins is used to automate build schedules with the help of Katalon Runtime Engine(KRE). The command script can be generated for any test suite in the Katalon Studio which then can be used to execute from Jenkins using the option of running Windows batch commands to start the build process. After the build process is executed via Jenkins, the test report is sent to Katalon TestOps. Here is the output of the console generated during the build process from [Jenkins](https://github.com/smartinternz02/SI-GuidedProject-705495-1706965358/tree/main/Jenkins_Katalon_Integration)
 
 ## Test Reports
-#### The test report is generated from running different test suite in this project. Here the test reports generated in this [project](https://github.com/smartinternz02/SI-GuidedProject-705495-1706965358/tree/main/Reports)
+#### The test report is generated from running different test suites in this project. Here are the test reports generated in this [project](https://github.com/smartinternz02/SI-GuidedProject-705495-1706965358/tree/main/Reports)
   
 # Project Structure:
 
