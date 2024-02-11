@@ -182,7 +182,7 @@ Configure Katalon Studio to send automated test reports via email to relevant st
 * List of countries available
 
 ## Data-driven testing
-#### To check whether what forms of data is parsed and executed by the application, data-driven testing can be performed. In this project I have used MS Excel data and CSV data to perform automated testing on Amazon login test case. The data files used for login test cases can be found [here](https://github.com/smartinternz02/SI-GuidedProject-705495-1706965358/tree/main/Data%20Files) and the corresponding test suite collection for CSV and xls data format can be found [here](https://github.com/smartinternz02/SI-GuidedProject-705495-1706965358/tree/main/Test%20Suites)
+#### To check whether what forms of data is parsed and executed by the application, data-driven testing can be performed. In this project I have used MS Excel data and CSV data to perform automated testing on Amazon login test case. The data files used for login test cases can be found [here](https://github.com/smartinternz02/SI-GuidedProject-713003-1706137475/tree/master/Katalon_Amazon_Application_Testing_Project_Files/Data%20Files/Amazon_Test%20Data) and the corresponding test suite collection for CSV and xls data format can be found [here](https://github.com/smartinternz02/SI-GuidedProject-705495-1706965358/tree/main/Test%20Suites)
 
 ## Cross-Browser Testing
 #### For testing interoperability with different Operating Systems and Browsers, Katalon Studio provides Katalon TestCloud that can be used to execute the same test cases across different environments. The test suite for cross-browser testing is available [here](https://github.com/smartinternz02/SI-GuidedProject-705495-1706965358/tree/main/Test%20Suites)
