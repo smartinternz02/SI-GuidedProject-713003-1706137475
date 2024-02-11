@@ -195,7 +195,9 @@ Configure Katalon Studio to send automated test reports via email to relevant st
   
 # Project Structure:
 
-![121](h)
+![100](https://github.com/smartinternz02/SI-GuidedProject-713003-1706137475/blob/master/Screenshots/Screenshot%202024-02-12%20043644.png)
+![100](https://github.com/smartinternz02/SI-GuidedProject-713003-1706137475/blob/master/Screenshots/Screenshot%202024-02-12%20044208.png)
+![100](https://github.com/smartinternz02/SI-GuidedProject-713003-1706137475/blob/master/Screenshots/Screenshot%202024-02-12%20044317.png)
 
 # Project Explanation Video Recording 
 Link:
