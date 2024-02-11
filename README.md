@@ -144,3 +144,33 @@ Analyze test reports to identify patterns, trends, and areas for improvement. Us
 ### Send Reports through Email
 
 Configure Katalon Studio to send automated test reports via email to relevant stakeholders. Enable notifications to keep the team informed about test
+
+# Prior Knowledge:
+
+ You must  have prior knowledge of following topics to complete this project.
+
+* Software testing concepts
+
+* STLC	
+
+* Manual Testing
+
+* Automation Testing
+
+* Software Automation process and tools 
+
+* Automation testing process
+
+* Classification of  automation testing tools
+
+* Difference between Manual and Automation testing
+
+* Advantages and need of automation testing tools
+  
+# Project Structure:
+
+![121](h)
+
+# Project Explanation Video Recording 
+Link:
+
