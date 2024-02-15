@@ -4,6 +4,8 @@
 Amazon guided project using Katalon studio
 
 # Amazon Project with Katalon Studio - Test Automation
+  ## Project Explanation Video Recording 
+  Youtube Link : [Click here](https://youtu.be/oMFyqlryKmc)
 
 ## Overview
 
